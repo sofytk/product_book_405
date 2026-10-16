@@ -15,7 +15,6 @@
 ├── .gitignore
 │
 ├── docs/
-│   ├── 00_course/
 │   ├── 01_product_discovery/
 │   ├── 02_user_research/
 │   ├── 03_product_strategy/
